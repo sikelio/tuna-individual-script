@@ -1,3 +1,3 @@
-# Deezer Tuna
+# Tuna Individual Script
 
-Project forked from **univrsal** tuna project for preventing multiple tabs that send data.
+Project based from **univrsal** tuna project for preventing multiple tabs that send data.

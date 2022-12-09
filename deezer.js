@@ -2,8 +2,8 @@
 // @name         Tuna browser script for Deezer
 // @version      1.0.0
 // @description  Get song information from Deezer
-// @downloadURL  https://raw.githubusercontent.com/sikelio/deezer-tuna/main/deezer-tuna.js
-// @updateURL  https://raw.githubusercontent.com/sikelio/deezer-tuna/main/deezer-tuna.js
+// @downloadURL  https://raw.githubusercontent.com/sikelio/tuna-individual-script/main/deezer.js
+// @updateURL    https://raw.githubusercontent.com/sikelio/tuna-individual-script/main/deezer.js
 // @author       Sik'
 // @match        *://www.deezer.com/*
 // @grant        unsafeWindow
